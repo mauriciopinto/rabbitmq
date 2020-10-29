@@ -1,4 +1,4 @@
-package com.publisher.rabbitmqpublisher;
+package lab;
 
 import java.util.concurrent.CountDownLatch;
 import org.springframework.stereotype.Component;
